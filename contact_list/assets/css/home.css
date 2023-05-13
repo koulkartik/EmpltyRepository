@@ -1,0 +1,21 @@
+body{
+margin: 0;
+font-family: sans-serif;
+}
+
+#page-heading{
+    text-align: center;
+    margin-top: 25px;
+    color: gray;
+}
+
+#contact-list-container{
+    text-align: center;
+}
+.contact{
+    display: inline-block;
+}
+
+#new-contact-form{
+    text-align: center;
+}
